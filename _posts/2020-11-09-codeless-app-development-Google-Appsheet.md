@@ -3,8 +3,8 @@ layout: post
 permalink: /cloud-codeless-platform/
 title: '코드없이 앱 개발하는 구글 앱시트'
 date: 2020-11-09 12:06:00 +09:00
-feature: '/img/posts/001/google_thumbnail_appsheet5_110820.jpg'
-background: '/img/posts/001/google_appsheet3_110820.JPG'
+feature: '/img/posts/001/google_appsheet3_110820.JPG'
+background: '/img/posts/001/google_thumbnail_appsheet5_110820.jpg'
 categories:
   - cloud
 tags:
@@ -42,6 +42,7 @@ description: '사용자가 별도의 코딩 없이 데이터를 연결해 간단
 
 어떤 시작점에서 구성을 시작해도 구글이 직관적인 디자인의 흐름과 다양한 데이터를 빠르게 적응시키는 것을 보여주기에 실제로 이미 구현화된 앱에 콘텐츠를 집어넣는 것 같은 느낌이 든다. 이 점이 창의적이고, 업그레이드 된 앱을 보여주기에 한계가 있다는 단점이 될 수 있으나, 실제로 어느정도 브레인스톰이 끝난 뒤에는 흐름이나 기획이 데이터와 함께 어떻게 보이는지 경험 할 수 있는 아주 디테일한 툴이다.
 
+[기존 예시로 구현해본 이미지]
 ![샘플로 구현된 앱](/img/posts/001/google_appsheet2_110820.jpg)
 
 ## 데이터 시각화? 코드없는 UI/UX화??
