@@ -3,7 +3,7 @@ layout: post
 permalink: /cloud-codeless-platform/
 title: '코드없이 앱 개발하는 구글 앱시트'
 date: 2020-11-09 12:06:00 +09:00
-feature: '/img/posts/001/google_appsheet3_110820.JPG'
+feature: '/img/posts/001/googleappsheet_thumb.JPG'
 background: '/img/posts/001/google_thumbnail_appsheet5_110820.jpg'
 categories:
   - cloud
