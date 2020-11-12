@@ -25,34 +25,37 @@ description: '아마존 셀러들은 블랙 프라이데이 전에 어떤 광고
 
 ## 아마존 온라인 광고 종류
 
-* Sponsored Products – 개별 상품을 홍보하는 CPC 광고
-* Sponsored Brand – 로고나 사용자 헤드라인 등을 사용하여 브랜드를 추천하는 CPC 광고
-* Sponsored Display – 조회수, 상품, 관심사를 타겟팅하는 디스플레이 CPC 광고
-* Stores – 아마존 내의 브랜드 채널/페이지로, Sponsored Brand광고의 랜딩 페이지로 사용 가능
+* [Sponsored Products](#s_products) – 개별 상품을 홍보하는 CPC 광고
+* [Sponsored Brand](#s_brand) –  브랜드를 추천하는 CPC 광고
+* [Sponsored Display](#s_display) – 타겟팅 가능 디스플레이형 CPC 광고
+* [Stores](#Stores) – 아마존 내의 브랜드 채널/페이지
 
-##Sponsored Products
+## Sponsored Products<a name="s_products"></a>
 
-![Amazon Sponsored Products](/img/posts/002/sponsored_products.JPG)
+
+![Alt](/img/posts/002/sponsored_products.jpg "amazon_sponsored_products")
 
 CPC 타입의 광고로, 자동 타겟팅을 이용해 쇼핑 검색이나 상품에 매칭되어 노출된다. 자동 타켓팅이어서 셀러가 다른 나라 언어로 크리에이티브를 준비하지 않는다고 해도, 아마존이 셀러에게 맞는 쇼핑 검색어를 자동으로 선택하기 때문에 다른 언어로 해외 국가에서도 광고할 수 있는 장점이 있다. 예산, 입찰액, 타게팅을 직접 선택 가능하다.
 
 
-##Sponsored Brand
+## Sponsored Brand<a name="s_brand"></a>
 
-![Amazon Sponsored Brand](/img/posts/002/sponsored_brands.JPG)
+![Alt](/img/posts/002/sponsored_brands.jpg "amazon_sponsored_brands")
 
 브랜드 노출을 최적화 하여 이에 맞는 상품을 노출시키며 전환을 올리고, 브랜드 충성도 (Brand Loyalty)를 강화할 수 있다. 고객이 좋아하는 브랜드라면 다른 광고 타입인 Stores 로 연결하여 추가 상품을 노출시킬 수도 있다. 이 광고를 사용할 경우 아마존에서 12개월 내의 브랜드 상품에 대한 신규 주문,판매, 총 주문 중 신규 브랜드의 주문 등을 확인할 수 있는 새로운 브랜드 지표 (new-to-brand metrics)를 제공해준다.
 
 
-##Sponsored Display
+## Sponsored Display<a name="s_display"></a>
 
-![Amazon Sponsored Display](/img/posts/002/sponsored_display.JPG)
+![Alt](/img/posts/002/sponsored_display.jpg "amazon_sponsored_display")
 
 조회수, 상품, 관심사를 타겟팅하여 진행하는 디스플레이형 CPC 광고로 특이하게도 아마존 외부(타사 웹사이트 및 웹)/내부에 모두 게시가 가능하다. 대부분의 디스플레이 광고가 그렇듯이, 타게팅 역시 시간 모수가 있다. 조회수의 경우 지난 30일 동안 상품/유사상품 페이지를 보고 구매를 하지 않은 고객, 관심사의 경우 90일동안 관심 세그먼트에 해당하는 상품에 페이지를 방문하거나 검색한 잠재 고객에게 노출될 수 있다.
 
 
-## Stores
-![Amazon Sponsored Display](/img/posts/002/Stores.jpg)
+## Stores<a name="Stores"></a>
+
+![Alt](/img/posts/002/Stores.jpg "amazon_Store")
+
 아마존에서 <strong>무료</strong>로 제공하는 채널 페이지로, 어찌 보면 국내 브랜드별 네이버 포스트, 혹은 스마트 스토어와도 비슷하다. Amazon.com/브랜드이름 의 구조를 띄고 있으며, 고객이 브랜드의 다양한 상품을 볼수도 있고, SNS나 Sponsored Brand 광고의 랜딩 페이지로도 유용하게 쓸 수 이다. 브랜드의 경우에는 다른 추가 비용 없이 amazon.com 도메인을 쓸 수 있다는 장점이 있다.
 
 ## 한국에 아마존 광고가 런칭된다면:
