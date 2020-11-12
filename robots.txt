@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://athenasghan.github.io/sitemap.xml
+
+DaumWebMasterTool:f6781beb11e357c800029b1a6bd21f76b814eb8379eea041525c4c521c3c2d32:AjqBsM5N9OwqdGhcHVi0YA==
