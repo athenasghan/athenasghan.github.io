@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://athenasghan.github.io/sitemap.xml
