@@ -52,12 +52,6 @@
     <meta name="keyword" content="{{ tag }}" />
     {% endfor %}
   {% endif %}
-  <!--og:image:alt-->
-  {% if page.image %}
-    <meta property="og:image:alt" content="{{ page.categories | regex_replace: '- ','' }}" />
-  {% else %}
-    <meta property="og:image:alt" content="{{ site.categories | regex_replace: '- ','' }}" />
-  {% endif %}
   {% if page.url %}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
