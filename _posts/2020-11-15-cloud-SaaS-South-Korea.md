@@ -1,9 +1,9 @@
 ---
 layout: post
 permalink: /cloud-SaaS-South-Korea/
-title: '우리가 쓰는 SaaS 클라우드 서비스들'
+title: '우리가 알게모르게 쓰는 SaaS 클라우드 서비스들'
 date: 2020-11-15 20:26:00 +09:00
-feature: '/img/posts/003/SaaS.jpg'
+feature: '/img/posts/003/SaaS.JPG'
 background: '/img/posts/003/spam.jpg'
 categories:
   - cloud
@@ -44,7 +44,7 @@ Source: <ins>[[클라우드] SaaS란? 소프트웨어의 기능을 서비스로 
 
 ## 대중적인 SaaS 제품 및 회사:
 
-![Alt](/img/posts/003/googleapps.jpg "googleapps")
+![Alt](/img/posts/003/Googleapps.jpg "googleapps")
 
 1.	구글 드라이브, 구글 독스(Docs) : 넓게 나아가서는 구글 데이터스튜디오, 구글 마케팅 플랫폼. 사용자의 로그인/구독을 통해 이메일이나 소프트웨어를 다운받지 않고 어디서나 쓸 수 있다.
 
