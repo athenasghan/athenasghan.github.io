@@ -12,8 +12,6 @@
 	</title>
 
   <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
-<!--meta keyword added-->
-  <meta name="keyword" content="{{ page.excerpt | default: site.tags | strip_html | normalize_whitespace | escape }}">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
@@ -48,6 +46,18 @@
     <meta property="og:description" content="{{ site.description }}" />
     <meta name="twitter:description" content="{{ site.description }}" />
   {% endif %}
+  {% if page.tags %}
+    {% for tag in page.tags %}
+  <!--meta keyword added-->
+    <meta name="keyword" content="{{ tag }}" />
+    {% endfor %}
+  {% endif %}
+  <!--og:image:alt-->
+  {% if page.image %}
+    <meta property="og:image:alt" content="{{ page.categories | regex_replace: '- ','' }}" />
+  {% else %}
+    <meta property="og:image:alt" content="{{ site.categories | regex_replace: '- ','' }}" />
+  {% endif %}
   {% if page.url %}
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
@@ -75,6 +85,7 @@
     <meta property="article:tag" content="{{ tag }}" />
     {% endfor %}
   {% endif %}
+
   <!-- End SEO Tag -->
   {% if page.feature %}
 
