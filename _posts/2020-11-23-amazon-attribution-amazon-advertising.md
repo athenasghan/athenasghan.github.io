@@ -6,7 +6,7 @@ date: 2020-11-25 23:32:00 +09:00
 feature: '/img/posts/004/amazon_attribution_thumb.jpg'
 background: '/img/posts/004/amazon_attribution_thumb.jpg'
 categories:
-  - digitaladvertising
+  - digitalmarketing
 tags:
   - amazon,amazon attribution,digital,digitaladvertising,아마존어트리뷰션
 description: 'Amazon 에도 utm 같은 태그가 있다면? 구글 애널리틱스보다 좋은점'
