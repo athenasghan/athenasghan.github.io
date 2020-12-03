@@ -33,7 +33,7 @@ description: '기존 구글 서치콘솔에서 새 버전의 크롤링 통계 �
 ![Alt](/img/posts/005/3.jpg "gsc-crawl-status-by-data")
 
   각 지표를 클릭하면 url 별로도 나눠서 보여준다:
-![Alt](/img/posts/005/4.jpg "gsc-crawl-status-by-url")
+  ![Alt](/img/posts/005/4.jpg "gsc-crawl-status-by-url")
 
 3. 호스트 상태 체크: 지난 90일동안 내 사이트가 구글에 얼마만큼 정보를 제공하고, 가용성이 있었는지 알려준다.
 ![Alt](/img/posts/005/5.jpg "gsc-crawl-status-by-host")
